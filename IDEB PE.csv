@@ -1,0 +1,387 @@
+Sigla da UF;Nome do Município;Rede;IDEB 2017;IDEB 2019;IDEB 2021;IDEB 2023
+PE;Abreu e Lima;Estadual;3,8;4,2;4,1;4,6
+PE;Abreu e Lima;Pública;3,8;4,2;4,1;4,6
+PE;Afogados da Ingazeira;Estadual;4,1;4,3;4,4;4,9
+PE;Afogados da Ingazeira;Federal;-;5,7;-;-
+PE;Afogados da Ingazeira;Pública;4,1;4,4;4,3;4,9
+PE;Afrânio;Estadual;4,0;4,6;4,9;4,5
+PE;Afrânio;Pública;4,0;4,6;4,9;4,5
+PE;Agrestina;Estadual;3,8;4,5;3,7;4,3
+PE;Agrestina;Pública;3,8;4,5;3,7;4,3
+PE;Água Preta;Estadual;3,8;4,1;4,2;4,5
+PE;Água Preta;Pública;3,8;4,1;4,2;4,5
+PE;Águas Belas;Estadual;3,8;4,2;4,3;4,4
+PE;Águas Belas;Pública;3,8;4,2;4,3;4,4
+PE;Alagoinha;Estadual;4,2;4,0;4,3;4,0
+PE;Alagoinha;Pública;4,2;4,0;4,3;4,0
+PE;Aliança;Estadual;3,9;4,7;4,5;4,3
+PE;Aliança;Pública;4,0;4,7;4,5;4,3
+PE;Altinho;Estadual;4,0;4,6;4,6;4,7
+PE;Altinho;Pública;4,0;4,6;4,6;4,7
+PE;Amaraji;Estadual;4,3;4,3;4,5;4,8
+PE;Amaraji;Pública;4,3;4,3;4,5;4,8
+PE;Angelim;Estadual;3,7;4,6;4,2;4,4
+PE;Angelim;Pública;3,7;4,6;4,2;4,4
+PE;Araçoiaba;Estadual;3,7;4,2;4,2;4,2
+PE;Araçoiaba;Pública;3,7;4,2;4,2;4,2
+PE;Araripina;Estadual;4,3;4,8;4,5;4,6
+PE;Araripina;Pública;4,3;4,8;4,5;4,6
+PE;Arcoverde;Estadual;4,3;4,7;4,7;4,8
+PE;Arcoverde;Pública;4,3;4,7;4,7;4,8
+PE;Barra de Guabiraba;Estadual;3,2;3,7;4,1;4,2
+PE;Barra de Guabiraba;Pública;3,2;3,7;4,1;4,2
+PE;Barreiros;Estadual;3,6;4,1;4,5;4,9
+PE;Barreiros;Federal;3,9;-;-;-
+PE;Barreiros;Pública;3,7;4,2;4,2;4,7
+PE;Belém de Maria;Estadual;3,9;3,9;4,3;4,5
+PE;Belém de Maria;Pública;3,9;3,9;4,3;4,5
+PE;Belém do São Francisco;Estadual;4,5;4,5;4,3;4,6
+PE;Belém do São Francisco;Pública;4,5;4,5;4,3;4,6
+PE;Belo Jardim;Estadual;4,0;4,5;4,5;4,4
+PE;Belo Jardim;Federal;3,8;-;-;-
+PE;Belo Jardim;Pública;4,0;4,5;4,4;4,5
+PE;Betânia;Estadual;3,6;4,1;4,2;4,2
+PE;Betânia;Pública;3,6;4,1;4,2;4,2
+PE;Bezerros;Estadual;4,4;4,6;4,8;4,8
+PE;Bezerros;Pública;4,4;4,6;4,8;4,8
+PE;Bodocó;Estadual;4,2;4,5;4,3;4,7
+PE;Bodocó;Pública;4,2;4,5;4,3;4,7
+PE;Bom Conselho;Estadual;3,7;4,0;4,8;4,5
+PE;Bom Conselho;Pública;3,7;4,0;4,8;4,5
+PE;Bom Jardim;Estadual;4,3;4,6;4,7;4,7
+PE;Bom Jardim;Pública;4,3;4,6;4,7;4,7
+PE;Bonito;Estadual;4,2;4,5;4,6;4,6
+PE;Bonito;Municipal;3,8;4,9;-;4,0
+PE;Bonito;Pública;4,2;4,5;4,5;4,5
+PE;Brejão;Estadual;4,4;5,0;4,4;4,5
+PE;Brejão;Pública;4,4;5,0;4,4;4,5
+PE;Brejinho;Estadual;4,3;4,8;4,7;4,9
+PE;Brejinho;Pública;4,3;4,8;4,7;4,9
+PE;Brejo da Madre de Deus;Estadual;3,6;4,2;-;4,3
+PE;Brejo da Madre de Deus;Pública;3,6;4,2;-;4,3
+PE;Buenos Aires;Estadual;3,4;4,4;4,3;4,4
+PE;Buenos Aires;Pública;3,4;4,4;4,3;4,4
+PE;Buíque;Estadual;3,9;4,2;4,2;4,4
+PE;Buíque;Pública;3,9;4,2;4,2;4,4
+PE;Cabo de Santo Agostinho;Estadual;4,0;4,4;4,3;4,4
+PE;Cabo de Santo Agostinho;Pública;4,0;4,4;4,3;4,4
+PE;Cabrobó;Estadual;4,1;4,3;4,3;4,4
+PE;Cabrobó;Pública;4,1;4,3;4,3;4,4
+PE;Cachoeirinha;Estadual;3,7;4,6;4,3;4,4
+PE;Cachoeirinha;Pública;3,7;4,6;4,3;4,4
+PE;Caetés;Estadual;4,0;4,3;4,8;4,5
+PE;Caetés;Pública;4,0;4,3;4,8;4,5
+PE;Calçado;Estadual;4,1;4,2;5,1;4,3
+PE;Calçado;Pública;4,1;4,2;5,1;4,3
+PE;Calumbi;Estadual;3,4;4,7;4,1;4,8
+PE;Calumbi;Pública;3,4;4,7;4,1;4,8
+PE;Camaragibe;Estadual;3,7;4,2;4,2;4,5
+PE;Camaragibe;Pública;3,7;4,2;4,2;4,5
+PE;Camocim de São Félix;Estadual;4,5;5,1;5,1;5,0
+PE;Camocim de São Félix;Pública;4,5;5,1;5,1;5,0
+PE;Camutanga;Estadual;3,5;4,3;4,3;4,3
+PE;Camutanga;Pública;3,5;4,3;4,3;4,3
+PE;Canhotinho;Estadual;4,0;4,6;4,6;4,4
+PE;Canhotinho;Pública;4,0;4,6;4,6;4,4
+PE;Capoeiras;Estadual;4,1;4,1;4,6;4,4
+PE;Capoeiras;Pública;4,1;4,1;4,6;4,4
+PE;Carnaíba;Estadual;4,6;4,9;5,2;5,3
+PE;Carnaíba;Pública;4,6;4,9;5,2;5,3
+PE;Carnaubeira da Penha;Estadual;-;4,4;-;-
+PE;Carnaubeira da Penha;Pública;-;4,4;-;-
+PE;Carpina;Estadual;4,4;4,7;4,6;4,7
+PE;Carpina;Pública;4,4;4,7;4,6;4,7
+PE;Caruaru;Estadual;4,1;4,4;4,5;4,8
+PE;Caruaru;Pública;4,1;4,4;4,5;4,8
+PE;Casinhas;Estadual;4,1;4,2;4,1;4,1
+PE;Casinhas;Pública;4,1;4,2;4,1;4,1
+PE;Catende;Estadual;3,5;4,0;4,6;4,6
+PE;Catende;Pública;3,5;4,0;4,6;4,6
+PE;Cedro;Estadual;3,9;4,2;4,1;4,3
+PE;Cedro;Pública;3,9;4,2;4,1;4,3
+PE;Chã de Alegria;Estadual;3,5;4,3;4,2;4,1
+PE;Chã de Alegria;Pública;3,5;4,3;4,2;4,1
+PE;Chã Grande;Estadual;4,0;4,1;4,5;4,8
+PE;Chã Grande;Pública;4,0;4,1;4,5;4,8
+PE;Condado;Estadual;3,5;4,3;4,4;4,2
+PE;Condado;Pública;3,5;4,3;4,4;4,2
+PE;Correntes;Estadual;4,4;4,6;4,8;4,5
+PE;Correntes;Pública;4,4;4,6;4,8;4,5
+PE;Cortês;Estadual;4,1;4,2;4,6;4,9
+PE;Cortês;Pública;4,1;4,2;4,6;4,9
+PE;Cumaru;Estadual;4,4;4,6;4,4;4,8
+PE;Cumaru;Pública;4,4;4,6;4,4;4,8
+PE;Cupira;Estadual;4,3;4,4;4,4;5,0
+PE;Cupira;Pública;4,3;4,4;4,4;5,0
+PE;Custódia;Estadual;4,0;4,5;4,2;3,9
+PE;Custódia;Pública;4,0;4,5;4,2;3,9
+PE;Dormentes;Estadual;4,8;4,9;4,8;5,0
+PE;Dormentes;Pública;4,8;4,9;4,8;5,0
+PE;Escada;Estadual;3,6;4,3;4,4;4,4
+PE;Escada;Pública;3,6;4,3;4,4;4,4
+PE;Exu;Estadual;4,0;4,0;4,0;3,9
+PE;Exu;Pública;4,0;4,0;4,0;3,9
+PE;Feira Nova;Estadual;4,5;4,8;4,6;4,8
+PE;Feira Nova;Pública;4,5;4,8;4,6;4,8
+PE;Fernando de Noronha;Estadual;4,4;5,4;5,1;4,3
+PE;Fernando de Noronha;Pública;4,4;5,4;5,1;4,3
+PE;Ferreiros;Estadual;3,8;4,1;4,3;4,3
+PE;Ferreiros;Pública;3,8;4,1;4,3;4,3
+PE;Flores;Estadual;4,5;4,7;4,4;4,5
+PE;Flores;Pública;4,5;4,7;4,4;4,5
+PE;Floresta;Estadual;4,2;4,4;3,9;4,4
+PE;Floresta;Federal;4,8;4,8;-;-
+PE;Floresta;Pública;4,2;4,5;4,4;4,5
+PE;Frei Miguelinho;Estadual;4,5;4,6;4,7;4,7
+PE;Frei Miguelinho;Pública;4,5;4,6;4,7;4,7
+PE;Gameleira;Estadual;2,9;3,9;3,9;4,5
+PE;Gameleira;Pública;2,9;3,9;3,9;4,5
+PE;Garanhuns;Estadual;4,3;4,8;4,9;4,9
+PE;Garanhuns;Federal;4,8;-;-;-
+PE;Garanhuns;Pública;4,2;5,0;5,1;5,0
+PE;Glória do Goitá;Estadual;4,2;4,8;4,9;4,8
+PE;Glória do Goitá;Pública;4,2;4,8;4,9;4,8
+PE;Goiana;Estadual;3,7;4,4;4,2;4,4
+PE;Goiana;Pública;3,7;4,4;4,2;4,4
+PE;Granito;Estadual;4,1;4,6;4,0;4,0
+PE;Granito;Pública;4,1;4,6;4,0;4,0
+PE;Gravatá;Estadual;4,4;4,7;4,8;4,9
+PE;Gravatá;Pública;4,4;4,7;4,8;4,9
+PE;Iati;Estadual;3,4;4,1;4,6;4,5
+PE;Iati;Pública;3,4;4,1;4,6;4,5
+PE;Ibimirim;Estadual;4,4;5,8;5,4;4,2
+PE;Ibimirim;Pública;4,4;5,8;5,4;4,2
+PE;Ibirajuba;Estadual;3,7;-;4,7;4,4
+PE;Ibirajuba;Pública;3,7;-;4,7;4,4
+PE;Igarassu;Estadual;3,9;4,4;4,5;4,5
+PE;Igarassu;Pública;3,9;4,4;4,5;4,5
+PE;Iguaracy;Estadual;3,9;4,6;4,8;4,5
+PE;Iguaracy;Pública;3,9;4,6;4,8;4,5
+PE;Inajá;Estadual;3,7;3,7;3,9;3,9
+PE;Inajá;Pública;3,7;3,7;3,9;3,9
+PE;Ingazeira;Estadual;3,6;4,8;4,2;4,5
+PE;Ingazeira;Pública;3,6;4,8;4,2;4,5
+PE;Ipojuca;Estadual;3,9;4,2;4,2;4,3
+PE;Ipojuca;Pública;3,9;4,2;4,2;4,3
+PE;Ipubi;Estadual;4,2;4,4;4,3;4,5
+PE;Ipubi;Pública;4,2;4,4;4,3;4,5
+PE;Itacuruba;Estadual;-;4,9;5,1;4,9
+PE;Itacuruba;Pública;-;4,9;5,1;4,9
+PE;Itaíba;Estadual;4,3;4,9;5,0;4,6
+PE;Itaíba;Pública;4,1;4,9;5,0;4,6
+PE;Ilha de Itamaracá;Estadual;4,3;4,7;4,5;4,8
+PE;Ilha de Itamaracá;Pública;4,3;4,7;4,5;4,8
+PE;Itambé;Estadual;4,3;4,4;4,2;4,3
+PE;Itambé;Pública;4,3;4,4;4,2;4,3
+PE;Itapetim;Estadual;4,7;4,7;4,2;4,6
+PE;Itapetim;Pública;4,7;4,7;4,2;4,6
+PE;Itapissuma;Estadual;3,9;4,6;4,2;4,4
+PE;Itapissuma;Pública;3,9;4,6;4,2;4,4
+PE;Itaquitinga;Estadual;3,5;3,7;4,2;3,9
+PE;Itaquitinga;Pública;3,5;3,7;4,2;3,9
+PE;Jaboatão dos Guararapes;Estadual;4,0;4,3;4,3;4,4
+PE;Jaboatão dos Guararapes;Pública;4,0;4,3;4,3;4,4
+PE;Jaqueira;Estadual;3,9;4,2;4,6;4,6
+PE;Jaqueira;Pública;3,9;4,2;4,6;4,6
+PE;Jataúba;Estadual;4,7;4,7;4,6;4,7
+PE;Jataúba;Pública;4,7;4,7;4,6;4,7
+PE;Jatobá;Estadual;3,1;4,2;4,3;4,5
+PE;Jatobá;Pública;3,1;4,2;4,3;4,5
+PE;João Alfredo;Estadual;4,4;5,4;5,2;5,0
+PE;João Alfredo;Pública;4,4;5,4;5,2;5,0
+PE;Joaquim Nabuco;Estadual;3,9;4,4;4,7;4,5
+PE;Joaquim Nabuco;Pública;3,9;4,4;4,7;4,5
+PE;Jucati;Estadual;4,9;5,1;5,1;4,9
+PE;Jucati;Pública;4,9;5,1;5,1;4,9
+PE;Jupi;Estadual;5,0;5,0;5,1;4,7
+PE;Jupi;Pública;5,0;5,0;5,1;4,7
+PE;Jurema;Estadual;4,0;4,0;4,4;4,0
+PE;Jurema;Pública;4,0;4,0;4,4;4,0
+PE;Lagoa do Carro;Estadual;3,6;4,1;4,3;4,1
+PE;Lagoa do Carro;Pública;3,6;4,1;4,3;4,1
+PE;Lagoa de Itaenga;Estadual;4,1;4,6;4,6;4,9
+PE;Lagoa de Itaenga;Pública;4,1;4,6;4,6;4,9
+PE;Lagoa do Ouro;Estadual;4,4;4,8;5,3;-
+PE;Lagoa do Ouro;Pública;4,4;4,8;5,3;-
+PE;Lagoa dos Gatos;Estadual;3,5;4,7;4,7;4,7
+PE;Lagoa dos Gatos;Pública;3,5;4,7;4,7;4,7
+PE;Lagoa Grande;Estadual;3,7;4,2;3,7;4,3
+PE;Lagoa Grande;Pública;3,7;4,2;3,7;4,3
+PE;Lajedo;Estadual;4,3;5,0;5,1;4,8
+PE;Lajedo;Pública;4,3;5,0;5,1;4,8
+PE;Limoeiro;Estadual;4,5;4,8;4,8;5,0
+PE;Limoeiro;Pública;4,5;4,8;4,8;5,0
+PE;Macaparana;Estadual;4,5;4,7;5,0;4,8
+PE;Macaparana;Pública;4,5;4,7;5,0;4,8
+PE;Machados;Estadual;4,4;4,8;4,6;4,3
+PE;Machados;Pública;4,4;4,8;4,6;4,3
+PE;Manari;Estadual;3,5;3,9;3,8;3,9
+PE;Manari;Pública;3,5;3,9;3,8;3,9
+PE;Maraial;Estadual;3,8;4,4;4,2;4,4
+PE;Maraial;Pública;3,8;4,4;4,2;4,4
+PE;Mirandiba;Estadual;3,7;4,0;3,8;4,2
+PE;Mirandiba;Pública;3,7;4,0;3,8;4,2
+PE;Moreno;Estadual;3,9;4,3;4,3;4,6
+PE;Moreno;Pública;3,9;4,3;4,3;4,6
+PE;Nazaré da Mata;Estadual;4,7;5,2;4,6;5,1
+PE;Nazaré da Mata;Pública;4,7;5,2;4,6;5,1
+PE;Olinda;Estadual;3,8;4,2;3,9;4,4
+PE;Olinda;Pública;3,8;4,2;3,9;4,4
+PE;Orobó;Estadual;4,5;4,9;4,9;4,6
+PE;Orobó;Pública;4,5;4,9;4,9;4,6
+PE;Orocó;Estadual;3,5;3,8;3,8;3,9
+PE;Orocó;Pública;3,5;3,8;3,8;3,9
+PE;Ouricuri;Estadual;3,5;3,9;3,9;3,9
+PE;Ouricuri;Federal;-;-;-;-
+PE;Ouricuri;Pública;3,6;3,9;4,2;4,0
+PE;Palmares;Estadual;4,0;4,4;4,8;4,9
+PE;Palmares;Pública;4,0;4,4;4,8;4,9
+PE;Palmeirina;Estadual;3,7;4,5;4,5;4,7
+PE;Palmeirina;Pública;3,7;4,5;4,5;4,7
+PE;Panelas;Estadual;4,2;4,3;4,4;5,0
+PE;Panelas;Pública;4,2;4,3;4,4;5,0
+PE;Paranatama;Estadual;4,1;4,0;4,4;4,2
+PE;Paranatama;Pública;4,1;4,0;4,4;4,2
+PE;Parnamirim;Estadual;3,9;4,1;4,0;4,2
+PE;Parnamirim;Pública;3,9;4,1;4,0;4,2
+PE;Passira;Estadual;4,1;4,6;4,5;4,5
+PE;Passira;Pública;4,1;4,6;4,5;4,5
+PE;Paudalho;Estadual;3,7;4,4;4,4;4,1
+PE;Paudalho;Pública;3,7;4,4;4,4;4,1
+PE;Paulista;Estadual;4,2;4,5;4,6;4,5
+PE;Paulista;Pública;4,2;4,5;4,6;4,5
+PE;Pedra;Estadual;3,8;3,4;3,6;3,9
+PE;Pedra;Pública;3,8;3,4;3,6;3,9
+PE;Pesqueira;Estadual;4,0;4,2;4,4;4,5
+PE;Pesqueira;Pública;4,0;4,2;4,4;4,5
+PE;Petrolândia;Estadual;4,1;4,8;4,4;4,7
+PE;Petrolândia;Pública;4,1;4,8;4,4;4,7
+PE;Petrolina;Estadual;3,9;4,5;4,1;4,6
+PE;Petrolina;Federal;-;5,5;-;-
+PE;Petrolina;Pública;4,0;4,6;4,2;4,6
+PE;Poção;Estadual;4,6;4,5;4,6;4,3
+PE;Poção;Pública;4,6;4,5;4,6;4,3
+PE;Pombos;Estadual;4,0;4,5;4,2;4,6
+PE;Pombos;Pública;4,0;4,5;4,2;4,6
+PE;Primavera;Estadual;3,5;4,4;4,3;4,7
+PE;Primavera;Pública;3,5;4,4;4,3;4,7
+PE;Quipapá;Estadual;3,8;4,5;4,5;4,6
+PE;Quipapá;Pública;3,8;4,5;4,5;4,6
+PE;Quixaba;Estadual;5,4;6,2;6,3;5,8
+PE;Quixaba;Pública;5,4;6,2;6,3;5,8
+PE;Recife;Estadual;4,2;4,6;4,6;4,6
+PE;Recife;Federal;-;-;-;-
+PE;Recife;Pública;3,9;4,2;4,4;4,4
+PE;Riacho das Almas;Estadual;4,4;4,3;4,6;4,7
+PE;Riacho das Almas;Pública;4,4;4,3;4,6;4,7
+PE;Ribeirão;Estadual;3,7;4,4;4,4;4,4
+PE;Ribeirão;Pública;3,7;4,4;4,4;4,4
+PE;Rio Formoso;Estadual;3,8;4,2;4,5;4,4
+PE;Rio Formoso;Pública;3,8;4,2;4,5;4,4
+PE;Sairé;Estadual;4,6;4,6;4,5;4,3
+PE;Sairé;Pública;4,6;4,6;4,5;4,3
+PE;Salgadinho;Estadual;4,5;4,7;5,5;5,0
+PE;Salgadinho;Pública;4,5;4,7;5,5;5,0
+PE;Salgueiro;Estadual;4,4;4,8;4,8;4,9
+PE;Salgueiro;Federal;-;-;-;-
+PE;Salgueiro;Pública;4,5;4,7;4,6;4,4
+PE;Saloá;Estadual;4,1;4,5;4,1;4,3
+PE;Saloá;Pública;4,1;4,5;4,1;4,3
+PE;Sanharó;Estadual;4,4;4,3;4,4;4,3
+PE;Sanharó;Pública;4,4;4,3;4,4;4,3
+PE;Santa Cruz;Estadual;4,1;4,0;4,0;4,0
+PE;Santa Cruz;Pública;4,1;4,0;4,0;4,0
+PE;Santa Cruz da Baixa Verde;Estadual;4,4;4,6;4,8;4,5
+PE;Santa Cruz da Baixa Verde;Pública;4,4;4,6;4,8;4,5
+PE;Santa Cruz do Capibaribe;Estadual;4,0;4,3;4,0;4,6
+PE;Santa Cruz do Capibaribe;Pública;4,0;4,3;4,0;4,6
+PE;Santa Filomena;Estadual;3,4;3,6;3,2;3,6
+PE;Santa Filomena;Pública;3,4;3,6;3,2;3,6
+PE;Santa Maria da Boa Vista;Estadual;3,2;3,6;3,0;3,4
+PE;Santa Maria da Boa Vista;Federal;-;5,0;-;-
+PE;Santa Maria da Boa Vista;Pública;3,2;3,7;3,1;3,5
+PE;Santa Maria do Cambucá;Estadual;4,9;4,9;4,7;4,7
+PE;Santa Maria do Cambucá;Pública;4,9;4,9;4,7;4,7
+PE;Santa Terezinha;Estadual;4,4;4,7;4,9;4,8
+PE;Santa Terezinha;Pública;4,4;4,7;4,9;4,8
+PE;São Benedito do Sul;Estadual;3,1;4,3;4,8;5,0
+PE;São Benedito do Sul;Pública;3,1;4,3;4,8;5,0
+PE;São Bento do Una;Estadual;3,6;4,8;4,8;4,8
+PE;São Bento do Una;Pública;3,6;4,8;4,8;4,8
+PE;São Caitano;Estadual;4,2;4,1;4,2;4,4
+PE;São Caitano;Pública;4,2;4,1;4,2;4,4
+PE;São João;Estadual;4,0;4,3;4,0;4,1
+PE;São João;Pública;4,0;4,3;4,0;4,1
+PE;São Joaquim do Monte;Estadual;3,9;4,9;5,1;4,5
+PE;São Joaquim do Monte;Pública;3,9;4,9;5,1;4,5
+PE;São José da Coroa Grande;Estadual;3,9;4,1;4,6;4,7
+PE;São José da Coroa Grande;Pública;3,9;4,1;4,6;4,7
+PE;São José do Belmonte;Estadual;4,5;4,8;4,7;4,8
+PE;São José do Belmonte;Pública;4,5;4,8;4,7;4,8
+PE;São José do Egito;Estadual;4,8;5,4;5,4;5,3
+PE;São José do Egito;Pública;4,8;5,4;5,4;5,3
+PE;São Lourenço da Mata;Estadual;3,9;4,5;4,3;4,3
+PE;São Lourenço da Mata;Federal;4,8;-;4,1;-
+PE;São Lourenço da Mata;Pública;4,0;4,5;4,3;4,4
+PE;São Vicente Férrer;Estadual;3,7;4,3;4,3;4,3
+PE;São Vicente Férrer;Pública;3,7;4,3;4,3;4,3
+PE;Serra Talhada;Estadual;4,1;4,3;4,4;4,6
+PE;Serra Talhada;Federal;-;-;-;-
+PE;Serra Talhada;Pública;4,1;4,3;4,5;4,6
+PE;Serrita;Estadual;4,1;4,2;4,2;4,6
+PE;Serrita;Pública;4,1;4,2;4,2;4,6
+PE;Sertânia;Estadual;4,1;4,3;4,2;4,4
+PE;Sertânia;Pública;4,1;4,3;4,2;4,4
+PE;Sirinhaém;Estadual;3,6;4,1;4,6;4,5
+PE;Sirinhaém;Pública;3,6;4,1;4,6;4,5
+PE;Moreilândia;Estadual;4,5;3,9;4,4;4,6
+PE;Moreilândia;Pública;4,5;3,9;4,4;4,6
+PE;Solidão;Estadual;4,7;5,1;5,3;5,5
+PE;Solidão;Pública;4,7;5,1;5,3;5,5
+PE;Surubim;Estadual;4,5;5,0;4,9;4,8
+PE;Surubim;Pública;4,5;5,0;4,9;4,8
+PE;Tabira;Estadual;4,3;4,8;4,7;5,0
+PE;Tabira;Pública;4,3;4,8;4,7;5,0
+PE;Tacaimbó;Estadual;3,9;3,8;3,9;4,7
+PE;Tacaimbó;Pública;3,9;3,8;3,9;4,7
+PE;Tacaratu;Estadual;3,8;3,9;4,3;4,0
+PE;Tacaratu;Pública;3,8;3,9;4,3;4,0
+PE;Tamandaré;Estadual;4,3;4,5;4,3;4,5
+PE;Tamandaré;Pública;4,3;4,5;4,3;4,5
+PE;Taquaritinga do Norte;Estadual;3,8;4,2;4,2;4,2
+PE;Taquaritinga do Norte;Pública;3,8;4,2;4,2;4,2
+PE;Terezinha;Estadual;4,3;4,4;4,9;4,4
+PE;Terezinha;Pública;4,3;4,4;4,9;4,4
+PE;Terra Nova;Estadual;5,0;5,1;4,9;5,1
+PE;Terra Nova;Pública;5,0;5,1;4,9;5,1
+PE;Timbaúba;Estadual;4,6;5,1;5,0;5,0
+PE;Timbaúba;Pública;4,6;5,1;5,0;5,0
+PE;Toritama;Estadual;3,4;3,8;3,5;4,3
+PE;Toritama;Pública;3,4;3,8;3,5;4,3
+PE;Tracunhaém;Estadual;4,3;4,7;4,8;4,5
+PE;Tracunhaém;Pública;4,3;4,7;4,8;4,5
+PE;Trindade;Estadual;4,0;4,4;4,2;4,5
+PE;Trindade;Pública;4,0;4,4;4,2;4,5
+PE;Triunfo;Estadual;4,7;5,0;4,8;5,3
+PE;Triunfo;Pública;4,7;5,0;4,8;5,3
+PE;Tupanatinga;Estadual;4,0;4,9;-;4,6
+PE;Tupanatinga;Pública;4,0;4,9;-;4,6
+PE;Tuparetama;Estadual;4,9;5,3;5,5;6,0
+PE;Tuparetama;Municipal;2,9;-;3,7;2,8
+PE;Tuparetama;Pública;4,3;4,7;5,1;5,5
+PE;Venturosa;Estadual;4,7;4,8;4,7;4,8
+PE;Venturosa;Pública;4,7;4,8;4,7;4,8
+PE;Verdejante;Estadual;4,7;4,6;4,9;5,0
+PE;Verdejante;Pública;4,7;4,6;4,9;5,0
+PE;Vertente do Lério;Estadual;4,7;5,2;4,8;4,9
+PE;Vertente do Lério;Pública;4,7;5,2;4,8;4,9
+PE;Vertentes;Estadual;5,3;5,2;5,4;5,1
+PE;Vertentes;Pública;5,3;5,2;5,4;5,1
+PE;Vicência;Estadual;3,8;4,3;4,6;4,3
+PE;Vicência;Pública;3,8;4,3;4,6;4,3
+PE;Vitória de Santo Antão;Estadual;4,1;4,5;4,5;4,5
+PE;Vitória de Santo Antão;Federal;-;-;-;-
+PE;Vitória de Santo Antão;Municipal;3,8;-;-;-
+PE;Vitória de Santo Antão;Pública;4,1;4,5;4,4;4,5
+PE;Xexéu;Estadual;3,9;4,4;4,6;4,9
+PE;Xexéu;Pública;3,9;4,4;4,6;4,9
